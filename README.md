@@ -1,1 +1,2 @@
-# My-Profile.github.io
+MY PROFILE
+Iorkaa Denen Patrick is an enthusiastic and dedicated graduate with a B.Sc. in Economics, specializing in data analysis and visualization. Key skills include building interactive dashboards with Microsoft Power BI, basic MySQL querying, accurate data entry and cleaning using Microsoft Excel, and desktop publishing with Adobe InDesign and Microsoft Publisher. With experience as a Data Entry Clerk and Cashier Assistant, Iorkaa has demonstrated proficiency in data management, customer service, and financial reconciliation. Iorkaa is a Graduate Member of the Nigerian Economic Society, eager to apply strong analytical and data management skills to transform data into actionable insights.
